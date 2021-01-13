@@ -1,2 +1,2 @@
 # Java
-My Java Repository.
+My Java Repository
