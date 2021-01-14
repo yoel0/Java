@@ -24,3 +24,27 @@ class poem {
                         + "We are Next, like .js! How about you?");
   }
 }
+
+// Returns
+// You should've known we were coming.
+// We came up from nothing, Swimming in fire.
+// Bootcamp Grads, my Boyz and Girlz.
+// Thinking we bluffing.
+// CODE destruction.
+// Way that we hop on an IDE, destroy it without an eruption.
+// You should've known WE were coming.
+// Bug combustion.
+// Way that we growing and slaying these bugs.
+// We HUNTING.
+// I against I, We fighting a battle and war with ourselves.
+// We don't see no one else.
+// Showing love ALWAYS in scope.
+// Soul laced HIGHER order function.
+// Our minds ain't really for sale.
+// Didn't know we were coming, now they do.
+// We been doing work yeah, times TWO.
+// Challenges? Please, Winnie D Pooh.
+// Crushing Mountains, Haiku.
+// We lit, Kung-Fu.
+// We blessed, ACHOO.
+// We are Next, like .js! How about you?
